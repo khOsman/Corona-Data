@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#34495e</color>
+    <color name="colorPrimaryDark">#2c3e50</color>
+    <color name="colorAccent">#1abc9c</color>
+    <color name="infected">#3498db</color>
+    <color name="recovered">#2ecc71</color>
+    <color name="deaths">#e74c3c</color>
+    <color name="bgOne">#ecf0f1</color>
+</resources>
